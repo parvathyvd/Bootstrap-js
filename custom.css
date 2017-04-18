@@ -1,0 +1,38 @@
+body {
+  font-family: Helvetica, sans-serif;
+  padding: 0;
+}
+
+.darkblue {
+  background-color: #0d5180;
+  color: white;
+}
+
+#cards img {
+  max-width: 100%;
+}
+
+li {
+  list-style: none;
+  padding: 5px 0px;
+}
+
+.btn-outline-primary {
+  background-color: #5fa0cd;
+}
+
+a {
+  color: white;
+}
+a:hover {
+  color: #ddd;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #0d5180;
+  padding: 0px 20px;
+  color: white;
+}
+
+/*# sourceMappingURL=custom.css.map */
